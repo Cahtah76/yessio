@@ -1,0 +1,3 @@
+[submodule "Bobby/yessio/js/message-board"]
+	path = Bobby/yessio/js/message-board
+	url = git@github.com:DevMountain/chatroom.git
